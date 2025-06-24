@@ -9,7 +9,7 @@ This is my personal portfolio website that showcases my skills, projects, resume
 
 ## 📌 Features
 
-- Project showcase with images
+- Project showcase with image
 - About me section
 - Work Experience
 - Projects
