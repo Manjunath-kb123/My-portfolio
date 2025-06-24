@@ -4,8 +4,8 @@ This is my personal portfolio website that showcases my skills, projects, resume
 
 ## 🚀 Live Demo
 
-🌐 [View Live Website]([https://your-username.github.io/your-repo-name]
-(https://manjunath-kb123.github.io/My-portfolio/))
+🌐 [View Live Website]
+ https://manjunath-kb123.github.io/My-portfolio/
 
 ## 📌 Features
 
